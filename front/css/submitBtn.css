@@ -1,0 +1,12 @@
+.btn-outline-info{
+    color: #e3b829;
+    border-color: #fccf72;
+}
+.btn-outline-info:hover{
+    background-color: #e3b829;
+    border-color: #fccf72;
+}
+.btn-outline-info:disabled{
+    color: #e3b829;
+    border-color: #fccf72;
+}

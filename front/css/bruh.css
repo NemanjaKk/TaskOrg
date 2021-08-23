@@ -1,0 +1,37 @@
+.card {
+    padding: .75rem;
+    margin-bottom: 2rem;
+    border: 0;
+}
+
+.card > img {
+    margin-bottom: .75rem;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    margin-bottom: 0;
+    background-image: url('../img/index-bg.png');
+}
+.jumbotron-heading{
+    color: white;
+}
+#text-hehe{
+    color: #f0f8ff!important;}
+.lead{
+    font-size: 1.7rem;
+    font-weight: 500;
+}
+h1{
+    font-size: 3.2rem;
+}
+.album{
+    padding-top: 4.5rem;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #e3a529;
+    border-color: #e3b829;
+}
